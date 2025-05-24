@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning architecture & System design, design Thinking, Frameworks for top languages.
 - 💞️ I’m looking to collaborate on projects I am passionate about, ideas, roles, big projects that i can learn on.
 - 📫 How to reach me :: email: nwabuezesamuel21@gmail.com
-- ⚡ Fun fact: Phesudocode is my super power.
 
 <!---
 samuelEze21/samuelEze21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
